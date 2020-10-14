@@ -8,7 +8,7 @@
 </center> 
 
 
-<h1 align="center" margin-top="10px">
+<h1 align="center">
   Lucas Mori :rocket:
 </h1>
 
