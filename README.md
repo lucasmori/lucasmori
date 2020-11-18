@@ -1,34 +1,15 @@
-<center>
-  <table>
-    <tr>
-      <td><img width="400px" height="150px" align="center" src="https://github-readme-stats.vercel.app/api?username=lucasmori&theme=tokyonight" /></td>
-      <td><img width="495px" height="150px" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucasmori&layout=compact&theme=tokyonight" /></td>
-    </tr>   
-  </table>
-</center> 
+# Lucas Mori
 
+[![LinkedIn Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/lucas-mori/)
 
-<h1 align="center">
-  Lucas Mori :rocket:
-</h1>
+## Hi Guys! 
 
-<h3 align="center">
-  I'm Lucas Mori, Full Stack Blockchain Developer and lover of a good cup of coffee :coffee:.
-</h3>
+My name is Lucas Mori! Currently I work as a Full Stack Blockchain Developer focus in Self Sovereign Identity solutions at [CPQD](https://www.cpqd.com.br).
 
-
-- :telescope: I'm currently working as a Full Stack Blockchain Developer at **CPQD**;
-- :heart: Passionate about Node.js, ReactJS and React Native;
-- :book: I'm currently studying computer engineering;
+- :coffee: Lover of a good cup of coffe.
+- :telescope: Passionate about Node.js, React, and Python.
+- :book: DevOps Enthusiastic.
+- :book: Full Stack Developer and Security Enthusiastic.
 - :sparkles: I like to create cool stuffs.
 
-#### How to reach me:
-
-  - [LinkedIn](https://br.linkedin.com/in/lucas-mori)
-
-<!-- Footer -->
-<h4 align="center">
-
-Made with :heart: by <a href="https://www.linkedin.com/in/lucas-mori/" target="_blank">Lucas Mori.</a>
-
-</h4>
+#### Made with :heart: by [Lucas Mori](https://www.linkedin.com/in/lucas-mori/).
