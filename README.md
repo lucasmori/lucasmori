@@ -4,7 +4,7 @@
 
 ## Hi Guys! 
 
-My name is Lucas Mori! Currently I work as a Full Stack Blockchain Developer focus in Self Sovereign Identity solutions at [CPQD](https://www.cpqd.com.br).
+My name is Lucas Mori! Currently I work as a Application Developer focus in Self Sovereign Identity solutions at [IBM](https://www.ibm.com/).
 
 - :coffee: Lover of a good cup of coffe.
 - :telescope: Passionate about Node.js, React, and Python.
