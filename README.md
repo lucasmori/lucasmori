@@ -10,7 +10,8 @@ solutions.
 
 ### What I am studying
 
-- Vue.js.
+- Vue.js;
+- Golang.
 
 ### Technologies
 
