@@ -11,7 +11,7 @@ solutions.
 ### What I am studying
 
 - Vue.js;
-- Golang.
+- Kotlin.
 
 ### Technologies
 
