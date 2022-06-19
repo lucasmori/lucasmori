@@ -6,11 +6,10 @@ solutions.
 
 ### What I am working
 
-- Working as Application Developer at [IBM](https://www.ibm.com/).
+- Working as Software Engineer at [IBM](https://www.ibm.com/).
 
 ### What I am studying
 
-- Vue.js;
 - Kotlin.
 
 ### Technologies
@@ -25,8 +24,6 @@ solutions.
 ### What I plan to learn
 
 - Kotlin;
-- ESP32 with Arduino;
-- Flutter;
 - AWS;
 - Serverless.
 
