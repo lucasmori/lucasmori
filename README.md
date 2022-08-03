@@ -10,12 +10,13 @@ solutions.
 
 ### What I am studying
 
-- Kotlin.
+- Java.
+- Algorithms & Data Structures.
 
 ### Technologies
 
 - Backend development using **Node.js** and **Java**;
-- Frontend development using **React.js**, **Vue**, **Nuxt.js** and **Angular**;
+- Frontend development using **React.js**, **Vue**;
 - Mobile development using **React Native**;
 - Infrastructure automation using **Heroku**, **GitHub Actions**, **Jenkins**, **Travis CI** and **UCD - UrbanCode Deploy**;
 - Monitoring tools using **Grafana**, **Prometheus**, **Nagios**, **Dynatrace** and **LogDNA**;
@@ -23,9 +24,8 @@ solutions.
 
 ### What I plan to learn
 
-- Kotlin;
-- AWS;
-- Serverless.
+- Java;
+- AWS.
 
 ### My biggest projects
 
