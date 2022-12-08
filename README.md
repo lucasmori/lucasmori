@@ -10,7 +10,6 @@ solutions.
 
 ### What I am studying
 
-- Java.
 - Algorithms & Data Structures.
 
 ### Technologies
@@ -24,7 +23,6 @@ solutions.
 
 ### What I plan to learn
 
-- Java;
 - AWS.
 
 ### My biggest projects
