@@ -6,11 +6,11 @@ solutions.
 
 ### What I am working
 
-- Working as Software Engineer at [IBM](https://www.ibm.com/).
+- Working as Software Engineer.
 
 ### What I am studying
 
-- Algorithms & Data Structures.
+- AWS.
 
 ### Technologies
 
@@ -23,7 +23,7 @@ solutions.
 
 ### What I plan to learn
 
-- AWS.
+- 
 
 ### My biggest projects
 
